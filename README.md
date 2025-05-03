@@ -9,3 +9,8 @@
 - Easy setup – start earning in minutes!
 
 ### Start earning today without lifting a finger – let the bot do the work for you!
+
+### Donate BTC: ```bc1qpkaety7a9nzj8ffqjk27x7vcfdx6kwfypsuemc```
+### Donate LTC: ```LVsAmPKxKBxi7dXaKLH4sP6TnyEBcQwn89```
+### Donate DOGE: ```DFAqmNnSuSwhFd9vC5kygJzooT8akuhNpG```
+### Donate USDT (trc20)(tron): ```TNHNBoMYywGAJ2cH25CfPuWwS1MLcUgz6C```
