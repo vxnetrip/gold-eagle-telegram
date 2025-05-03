@@ -15,7 +15,7 @@ The apps like this should'nt exists on the internet people are only clicking on 
 
 ### If you enjoy my work you can support me via cryptocurrencies:
 
-### https://vxnetrip.infy.uk
+### ⭐ Website: https://vxnetrip.infy.uk
 
 ### 💖 Donate BTC: ```bc1qpkaety7a9nzj8ffqjk27x7vcfdx6kwfypsuemc```
 ### 💖 Donate LTC: ```LVsAmPKxKBxi7dXaKLH4sP6TnyEBcQwn89```
